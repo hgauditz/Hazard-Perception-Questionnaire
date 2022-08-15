@@ -1,5 +1,5 @@
 # Hazard-Perception-Questionnaire
-This repository contains the material for the Bachelor's thesis of Hannah Gauditz, student of Universität Osnabrück, Germany. The thesis was submitted on 15-08-2022.
+This repository contains the material for the bachelor's thesis of Hannah Gauditz, student of Universität Osnabrück, Germany. The thesis was submitted on 15-08-2022.
 
 The work proposes a new experimental paradigm to investigate the effect of a stroke on hazard perception. One method to assess hazard perception is a newly developed questionnaire which captures the hehavioural and emotional reaction in various hazardeous situations. The survey (questionnaire.pdf), the raw data (data-20-07-2022.csv) set as well as the script for analysis and visualization of the results (analysis.py) can be found in this repository.
 
